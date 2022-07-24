@@ -49,7 +49,7 @@ body{
     margin-bottom: 18px;
 
 
-    font-size: 20px;
+    font-size: 28px;
 }
 
 .container .content p{
@@ -74,13 +74,13 @@ body{
     width: 40px;
     height: 40px;
     border-radius: 50%;
+    align-items: center;
+    justify-content: center;
 
     margin: 0 auto;
+    margin-bottom: -20px;
+    position: relative;
 
-    margin-top: 10.5%;
-    margin-left: 23%;
-
-    position: absolute;
 }
 
 .container .btn:hover{

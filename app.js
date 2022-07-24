@@ -13,6 +13,6 @@ btn.addEventListener("click", function () {
       console.log(error);
     })
     .then(() => {
-      console.log("Codigo de Jhony Lemos");
+      console.log("Código de Jhony Lemos");
     });
 });
